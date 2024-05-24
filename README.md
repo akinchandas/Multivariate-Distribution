@@ -1,4 +1,4 @@
-# Multivariate Distribution using Numpy 
+# Multivariate Distribution 
 Hi there, how's going everybody. In this short tuitorial i'm going to show you about Multivariate Distribution which is a solid topic from Statistical Inference.
 I used numpy library ( Python library for numerical and scientific computing) to show that how you/we should be implementing the Multivariate Distribution.
 ## Installation and Requirements
