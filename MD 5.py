@@ -1,3 +1,4 @@
+#888888888888888888888
 #Binomial Distribution
 #AKA a Discrete Distribution.
 #The outcome of binary scenarios, e.g. toss of a coin, it will either be head or tails.
